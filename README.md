@@ -26,7 +26,7 @@ Back on your bucket's main page, hit "Upload".
 Toss in your website files – think HTML, CSS, JS, and images – using the drag-and-drop magic.
 Make sure they're public by selecting them, clicking "Actions", and choosing "Make public".
 
-# Step 6: Permissions 
+# Step 5: Permissions 
 
 Edit Bucket Policy:
 Policy type - S3 Bucket Policy
@@ -37,7 +37,7 @@ Click on Add statement and generate policy.
 ![image](https://github.com/Chinay77/Static-Website-Using-AWS-S3/assets/105514247/2f555972-6f34-4378-a205-d23ce582f06c)
 
 
-# Step 7: The Big Reveal
+# Step 6: The Big Reveal
 
 Spot the "Endpoint" URL under "Static website hosting".
 Copy this unique URL (e.g., http://your-website-bucket.s3-website-region.amazonaws.com).
